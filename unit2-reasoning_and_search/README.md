@@ -1,4 +1,6 @@
-# Introduction
+# Assignment - Search
+
+## Introduction
 
 In this assignment you will develop constraints for a CSP solver to solve a significant problem. You will also get practice developing Python code to work with AISpace libraries and leverage the code implementing the AI search algorithms you’ve learned about in this unit. 
 
