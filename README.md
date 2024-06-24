@@ -1,6 +1,7 @@
 ## Course Details
 
 Title: CS305: Introduction to Artificial Intelligence
+Intructor: Scott Hammond
 
 Course Description: This course introduces the field of Artificial Intelligence though study of its core concepts, methods, and applications, especially in the areas of knowledge representation, automated reasoning, and machine learning. Using the Python programming language, students will leverage AI techniques to optimize the actions taken by computer software in complex and uncertain environments. Students will also explore the context of AI including major application areas and ethical concerns.
 
